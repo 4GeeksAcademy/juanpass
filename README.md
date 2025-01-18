@@ -1,2 +1,2 @@
-# juanpass-instagram-post-latam-46
-Primer proyecto instagram post
+# juanpass
+Proyecto vacío, porque estoy aprendiendo y la cajetié creándolo.
